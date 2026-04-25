@@ -1,5 +1,11 @@
-out
-dist
+/out
+/dist
+/db
+/drizzle
+/drizzle-backup
+/resources
+src/renderer/public/**
+src/renderer/src/assets/**
 pnpm-lock.yaml
 LICENSE.md
 tsconfig.json
